@@ -1,0 +1,18 @@
+request user to enter a positive number x times
+ when user enters 0 value, calculate the largest inputted numbers
+		print out those numbers
+		
+read arbitrary number of integers
+return arithmetic average
+
+read a grocery list
+if d,g,a are items left to buy
+		print a, d, g
+		
+read X, Y
+Calculate S=X+Y
+calculate A=S/2
+calculate P=XxY
+		display S,A,P
+
+
